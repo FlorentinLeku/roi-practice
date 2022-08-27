@@ -12,6 +12,7 @@ function Header() {
             <Navbar.Brand href="/home">GS</Navbar.Brand>
             <Nav className="me-auto">
               <Nav.Link href="/">Signup</Nav.Link>
+              <Nav.Link href="/services">Services</Nav.Link>
             </Nav>
           </Container>
         </Navbar>
