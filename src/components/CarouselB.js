@@ -9,7 +9,7 @@ function CarouselB() {
         <Carousel.Item key={index}>
           <img
             className="d-block w-100"
-            src={'assets/' + item.image}
+            src={'../assets/' + item.image}
             alt="...loading"
             height="700"
           />

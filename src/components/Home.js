@@ -8,6 +8,7 @@ import AccordionB from "./AccordionB";
 import accordionContent from "../Content/accordionContent";
 
 
+
 function Home() {
     return (
         <>
