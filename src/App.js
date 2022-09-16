@@ -7,6 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Services from './components/Services';
 import AboutUs from './components/AboutUs';
 import TeamMembers from './components/TeamMembers';
+import ContactUs from './components/ContactUs';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Route path="/services" element={<Services />} />
       <Route path="/aboutus" element={<AboutUs />} />
       <Route path="/teammembers" element={<TeamMembers />} />
+      <Route path="/contactus" element={<ContactUs />} />
 
 
     </Routes>

@@ -14,6 +14,7 @@ function Header() {
               <Nav.Link href="/">Signup</Nav.Link>
               <Nav.Link href="/services">Services</Nav.Link>
               <Nav.Link href="/aboutus">About Us</Nav.Link>
+              <Nav.Link href="/contactus">Contact Us</Nav.Link>
             </Nav>
           </Container>
         </Navbar>
